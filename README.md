@@ -109,8 +109,5 @@ git lfs track "*.pbix"
 This project is for educational and portfolio purposes.
 
 ## Author
+Preeti Lata
 
-*Your Name*
-
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?logo=linkedin)](https://linkedin.com/in/your-profile)
